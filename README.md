@@ -1,5 +1,6 @@
 # Yolo_traffic_signs_recognition
- Machine Learning apllied to reconition to traffic signs
+
+Detection and Convoilucional Layers to classified traffic signs at road level.
  
  ---
  
