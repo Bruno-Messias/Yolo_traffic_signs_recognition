@@ -1,6 +1,6 @@
 # Yolo_traffic_signs_recognition
 
-Detection and Convoilucional Layers to classified traffic signs at road level.
+Detection and Convolucional Layers to classified traffic signs at road level.
  
  ---
  
